@@ -1,0 +1,15 @@
+{
+  "originHash" : "9af088249f69925eadf490562de46a4895d12c3df8e1945cc0d3be0023d8fee5",
+  "pins" : [
+    {
+      "identity" : "filetypes",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/leviouwendijk/FileTypes.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f0c1d8bf5beda0de51c9e95b687fbdec9e4ce7b0"
+      }
+    }
+  ],
+  "version" : 3
+}

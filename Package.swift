@@ -15,7 +15,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/leviouwendijk/FileTypes.git", branch: "master"),
+        .package(url: "https://github.com/swift-lco/FileTypes.git", branch: "master"),
     ],
     targets: [
         .target(
